@@ -1,0 +1,28 @@
+{
+  "linear_regression": {
+    "test_rmse": 4561.881421246323,
+    "test_mae": 2749.3452617709513,
+    "test_r2": 0.8659521279076272,
+    "cv_r2_mean": 0.8415854383010082,
+    "cv_r2_std": 0.03426921867046992
+  },
+  "xgboost": {
+    "test_rmse": 4351.42968405444,
+    "test_mae": 2510.048251564599,
+    "test_r2": 0.8780348147561291,
+    "cv_r2_mean": 0.8564408616305995,
+    "cv_r2_std": 0.032007401151649,
+    "best_params": {
+      "learning_rate": 0.03,
+      "max_depth": 2,
+      "n_estimators": 200,
+      "subsample": 1.0
+    }
+  },
+  "winner": "XGBoost",
+  "smoker_avg_charges": {
+    "non_smoker": 8434.268297856202,
+    "smoker": 32050.23183153285,
+    "multiplier": 3.800001458298319
+  }
+}

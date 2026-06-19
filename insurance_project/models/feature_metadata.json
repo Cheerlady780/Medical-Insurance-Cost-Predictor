@@ -1,0 +1,45 @@
+{
+  "feature_cols": [
+    "age",
+    "bmi",
+    "children",
+    "smoker_flag",
+    "sex_flag",
+    "smoker_x_bmi",
+    "region_northwest",
+    "region_southeast",
+    "region_southwest",
+    "bmi_category_obese",
+    "bmi_category_overweight",
+    "bmi_category_underweight",
+    "age_band_26-35",
+    "age_band_36-50",
+    "age_band_51+"
+  ],
+  "bmi_bins": [
+    0,
+    18.5,
+    25,
+    30,
+    100
+  ],
+  "bmi_labels": [
+    "underweight",
+    "normal",
+    "overweight",
+    "obese"
+  ],
+  "age_bins": [
+    0,
+    25,
+    35,
+    50,
+    120
+  ],
+  "age_labels": [
+    "18-25",
+    "26-35",
+    "36-50",
+    "51+"
+  ]
+}

@@ -1,0 +1,5 @@
+Model,Smoker,RMSE ($),N
+Linear Regression,yes,5050.96227657881,54
+Linear Regression,no,4429.945025901235,214
+XGBoost,yes,4665.748549990402,54
+XGBoost,no,4268.46001056224,214

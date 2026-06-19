@@ -1,0 +1,16 @@
+feature,mean_abs_shap
+smoker_x_bmi,5045.077
+age,3122.9478
+smoker_flag,2571.6057
+bmi,822.0747
+children,485.98083
+region_southwest,143.8514
+sex_flag,56.755413
+bmi_category_overweight,4.956334
+region_northwest,0.0
+region_southeast,0.0
+bmi_category_obese,0.0
+bmi_category_underweight,0.0
+age_band_26-35,0.0
+age_band_36-50,0.0
+age_band_51+,0.0
